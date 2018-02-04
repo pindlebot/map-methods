@@ -1,0 +1,9 @@
+{
+  "name": "map-methods",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.topath": "^4.5.2"
+  }
+}
